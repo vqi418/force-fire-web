@@ -1,0 +1,98 @@
+﻿#masthead {
+		padding: 0px;
+							
+}
+
+IMG.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+    
+#top_nav {
+	text-align: center;
+	height: 40px	
+}
+
+#page_content {
+	font-family: "Times New Roman", Times, serif;
+	padding-left: 100px;
+	padding-right: 100px;
+	color:white
+}
+
+#greeting {font-size:250%;text-align:center
+}
+
+#greet2{font-size:medium;text-align:center
+}
+
+#encrypt{text-decoration:underline; text-align:center
+}
+
+body {background: #333333; 
+}
+
+#footer {
+	font-family: "Times New Roman", Times, serif;
+	text-decoration: none;
+	text-align:center;
+	color:white
+}
+#top_nav ul {
+	list-style-type: none;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+}
+#top_nav li {
+	float: none;
+	display: inline;
+}
+#top_nav a {
+	border: thin solid #FF0000;
+	font-family: "Times New Roman", Times, serif;
+	color: #000000;
+	text-decoration: none;
+	display: inline-block;
+	padding-right: 5px;
+	padding-left: 5px;
+	background-color: #FF0000;
+	margin-right: 2px;
+	font-size: x-large;
+}
+#top_nav a:hover {
+	color: #FF0000;
+	text-decoration: none;
+	border: thin solid #FF0000;
+	background-color: #000000;
+	font-family: "Times New Roman", Times, serif;
+}
+#center {
+	text-align: center;
+}
+a {
+	color: #FF0000;
+}
+a:visited {
+	color: #008000;
+}
+a:active {
+	color: #800000;
+}
+a:hover {
+	color: #008000;
+}
+
+h1 {text-align:center;font-size:xx-large
+}
+
+h2 {text-align:center;font-style:italic;font-size:xx-large
+}
+
+p {font-size:x-large
+}
+
+pre {text-align:left;font-size:large
+}

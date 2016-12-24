@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background:#0A0A1F;
+	font-family: 'Halant', serif;
+}
+
+#thelogo {
+   position: relative;
+   z-index: 1;
+}
+
+.page {
+	padding-top: 5%;
+}
+
+h1 {
+	
+}
+
+h2 {
+	text-align: center;
+	color: #E8BD51;
+	font-family: 'Goudy Bookletter 1911', serif;
+	font-size: 225%;
+}
+
+.greet1 {
+	font-size: 250%;
+	text-align: center;
+	color: #D9990F;
+}
+
+.greet2 {
+	text-align: center;
+	font-size: 160%;
+	color: #CCCCCC;
+}
+
+
+main {
+	font-size: 140%;
+	color: #888D9A;
+}
+
+footer {
+	text-align: center;
+	padding-top: 5%;	
+}
+
+.page a {
+	color: #306F7A;
+	text-decoration: none
+}
+.page a:visited {
+	color: #80B0B8;
+}
+.page a:active {
+	color: #800000;
+}
+.page a:hover {
+	color: #800000;
+}
+
+/*#otol {
+	max-width: 240px;
+	padding-right: 15px;
+	padding-top: 75px;
+}
+*/
+.contact strong {
+	color: #c32123
+}
+
+.ctr {
+	text-align:center;
+}
+
+.right {
+  text-align: right;
+}
+
+/*.fli {
+    text-indent: 3%;
+}*/
+
+.ind {
+  margin-top: 1.25%;
+  text-indent: 3%;
+}
+
+.heading {
+	font-weight:bold;
+	font-size:170%;
+}
+
+.subhead {
+	font-size:155%;
+	margin-left:5%;
+}
+
+.doctitle {
+	font-size:200%;
+	
+}
+
+.subtitle {
+	font-size:125%;
+}
+
+.oz {
+
+}

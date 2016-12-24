@@ -1,0 +1,68 @@
+﻿#masthead {
+		padding: 0px;
+							
+}
+
+IMG.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+    
+#page_content {
+	font-family: "Times New Roman", Times, serif;
+	padding-left: 100px;
+	padding-right: 100px;
+	color:white
+}
+
+#greeting {font-size:250%;text-align:center
+}
+
+#greet2{font-size:medium;text-align:center
+}
+
+#encrypt{text-decoration:underline; text-align:center; font-size:145%
+}
+
+#door {text-align:center;font-size:175%
+}
+
+body {background: #333333; 
+}
+
+#footer {
+	font-family: "Times New Roman", Times, serif;
+	text-decoration: none;
+	text-align:center;
+	color:white
+}
+
+
+#center {
+	text-align: center; font-family: "Iskoola Pota"; font-size: 15px
+}
+a {
+	color: #FF0000;
+}
+a:visited {
+	color: #008000;
+}
+a:active {
+	color: #800000;
+}
+a:hover {
+	color: #008000;
+}
+
+h1 {text-align:center;font-size:xx-large
+}
+
+h2 {text-align:center;font-style:italic;font-size:xx-large
+}
+
+p {font-size:x-large
+}
+
+pre {text-align:left;font-size:large
+}

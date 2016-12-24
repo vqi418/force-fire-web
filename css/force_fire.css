@@ -1,0 +1,172 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background:#0A0A1F;
+	font-family: 'Halant', serif;
+}
+
+#thelogo {
+   position: relative;
+   z-index: 1;
+}
+
+.page {
+	padding-top: 5%;
+}
+
+/*.thel93 {
+	font-size:150%;
+	color:#969045;	
+	text-align:center;
+}*/
+	
+h2 {
+	text-align: center;
+	color: #E8BD51;
+	font-family: 'Goudy Bookletter 1911', serif;
+	font-size: 150%;
+}
+
+.greet1 {
+	font-size: 180%;
+	text-align: center;
+	color: #D9990F;
+}
+
+.greet2 {
+	text-align: center;
+	font-size: 115%;
+	color: #CCCCCC;
+}
+
+
+main {
+	font-size: 140%;
+	color: #888D9A;
+}
+
+footer {
+	text-align: center;
+	color: #C4BA66;
+	padding-top: 5%;	
+}
+
+.page a {
+	color: #306F7A;
+	text-decoration: none
+}
+.page a:visited {
+	color: #80B0B8;
+}
+.page a:active {
+	color: #800000;
+}
+.page a:hover {
+	color: #800000;
+}
+
+#otol {
+	max-width: 240px;
+	padding-right: 15px;
+	padding-top: 75px;
+}
+
+.contact {
+	font-size:120%;
+	
+}
+
+.contact span {
+	color: #c32123
+}
+
+.mail {
+	font-size:115%;
+	color:#D4D2E4;
+	
+	}
+
+.ctr {
+	text-align:center;
+}
+
+.right {
+  text-align: right;
+}
+
+.left {
+	text-align: left;
+}
+
+
+.ind {
+  margin-top: 1.25%;
+  text-indent: 3%;
+}
+
+.heading {
+	font-weight:bold;
+	font-size:170%;
+}
+
+.subhead {
+	font-size:155%;
+	margin-left:5%;
+}
+
+.doctitle {
+	font-size:200%;
+	
+}
+
+.subtitle {
+	font-size:125%;
+	
+}
+
+
+.directory {
+	text-align:center;
+	font-size:120%;
+	
+}
+
+.section {
+	text-align:center;
+	font-size:155%;
+}
+
+.subsection {
+  font-style: italic;
+  font-size:125%;
+  text-align:center;
+
+}
+
+.elab {
+	font-style: italic;
+	font-size:125%;
+}
+
+.doclist {
+	font-size: 125%;
+	text-decoration:none;
+	
+}
+
+.doclist ul {
+  list-style-type: none;
+}
+
+.lmar {
+	margin-left:5%;
+	font-size:80%;
+	
+}
+
+.tlsnote {
+	font-size:60%;
+	color:#992A05;
+	text-align:center;
+}

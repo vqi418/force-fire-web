@@ -1,0 +1,55 @@
+﻿
+.center-underline {
+	text-align: center;
+	text-decoration: underline;
+}
+.left-xlarge {
+	text-align: left;
+	font-size: x-large;
+}
+.underline-center-xlarge {
+	text-align: center;
+	font-size: xx-large;
+	text-decoration: underline;
+}
+.text-left {
+	text-align: left;
+}
+.underline-center-normal {
+	text-align: center;
+	font-weight: normal;
+	text-decoration: underline;
+}
+.font-xlarge {
+	font-size: x-large;
+}
+.left-xlarge {
+	text-align: left;
+	font-size: x-large;
+}
+.underline-center {
+	text-decoration: underline;
+	text-align: center;
+}
+.xlarge-left {
+	text-align: left;
+	font-size: x-large;
+}
+.left {
+	text-align: left;
+}
+.center-underline {
+	text-align: center;
+	text-decoration: underline;
+}
+.center-xxlarge {
+	text-align: center;
+	font-size: xx-large;
+}
+.left-xlarge {
+	text-align: left;
+	font-size: x-large;
+}
+.xxlarge {
+	font-size: xx-large;
+}

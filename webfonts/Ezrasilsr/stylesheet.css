@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Ezrasilsr';
+	src: url('ezrasilsr-webfont.eot');
+	src: url('ezrasilsr-webfont.eot?#iefix') format('embedded-opentype'),
+		url('ezrasilsr-webfont.woff') format('woff'),
+		url('ezrasilsr-webfont.ttf') format('truetype'),
+		url('ezrasilsr-webfont.svg') format('svg');
+}

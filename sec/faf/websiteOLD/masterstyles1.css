@@ -1,0 +1,56 @@
+﻿/* CSS layout */
+#masthead {
+	padding: 0px;
+	margin: 0px;
+	box-shadow: #333333;
+	background-color: #333333;
+}
+#top_nav {
+	text-align: center;
+	height: 40px;
+	background-color: #333333;
+}
+#page_content {
+	box-shadow: #333333;
+	background-color: #333333;
+	font-family: "Times New Roman", Times, serif;
+	color: #FFFFFF;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+#footer {
+	background-color: #333333;
+	font-family: "Times New Roman", Times, serif;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#top_nav ul {
+	list-style-type: none;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+}
+#top_nav li {
+	float: none;
+	display: inline;
+}
+#top_nav a {
+	border: thin solid #FF0000;
+	font-family: "Times New Roman", Times, serif;
+	color: #000000;
+	text-decoration: none;
+	display: inline-block;
+	padding-right: 5px;
+	padding-left: 5px;
+	background-color: #FF0000;
+	margin-right: 2px;
+	font-size: x-large;
+}
+#top_nav a:hover {
+	color: #FF0000;
+	text-decoration: none;
+	border: thin solid #FF0000;
+	background-color: #000000;
+	font-family: "Times New Roman", Times, serif;
+}
